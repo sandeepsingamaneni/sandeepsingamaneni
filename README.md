@@ -1,7 +1,10 @@
 ### Hi there 👋
 
 # 💫 About Me:
-Highly accomplished professional with a strong background in technical support, application consultancy, and data analysis. Proven expertise in driving operational excellence, enhancing customer satisfaction, and optimizing processes. Adept in troubleshooting technology issues, leveraging tools such as JIRA, Confluence, and ticketing software to streamline resolutions. Proficient in SailPoint IIQ and Oracle Access Manager for robust role-based access control and password management. Skilled in EDI application support with JD Edwards ERP, contributing to efficiency gains and quality assurance. Well-versed in project evaluation, resource allocation, and risk mitigation, bolstering project success. Recognized for adept data handling and analysis of extensive customer datasets. Equipped to excel as a Software Engineer/Cloud Engineer, leveraging a solid foundation in technology, analytical insight, and collaborative problem-solving<br><br>
+I am a highly motivated and dedicated Computer Science professional with a Master's degree from Portland State University. Skilled in Python, JavaScript, databases (PostgreSQL), and platforms (Google
+Cloud, AWS). Experienced in IT support, Proficient in application support, continuous improvement, and quality assurance. Certified AWS Cloud Practitioner with a passion for Cybersecurity.
+Accomplished various projects in movie recommendation, database management, machine learning, and web design. Seeking opportunities to leverage skills, collaborate, and contribute to the field of
+Computer Science. If you think that my skills can add value to your company please feel free to reach out!
 
 
 ## 🌐 Socials:
